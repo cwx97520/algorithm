@@ -1,7 +1,7 @@
 # algorithms-data-structures
----
+
 ## 数据结构
----
+
 * [数组](/data-structures/array/README.md)
 * [栈](/data-structures/stack/README.md)
 * [队列](/data-structures/queue/README.md)
